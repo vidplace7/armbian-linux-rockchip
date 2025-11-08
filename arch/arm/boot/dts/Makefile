@@ -1166,6 +1166,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += \
 	rv1106g-evb2-v12-spi-nand-tb.dtb \
 	rv1106g-evb2-v12-wakeup.dtb \
 	rv1106g-luckfox-pico-pro-max.dtb \
+	rv1106g-luckfox-pico-zero.dtb \
 	rv1106g-smart-door-lock-rmsl-v10.dtb \
 	rv1106g-smart-door-lock-rmsl-v12.dtb \
 	rv1106g-uvc-demo-v10.dtb \
